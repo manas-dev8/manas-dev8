@@ -12,12 +12,19 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h2 align="left">Hi 👋! My name is Manas Saxena and I'm an Undergrad student of CSE(Artificial Intelligence and Machine Learning)</h2>
-<p>First-Year AI/ML Scholar | Proficient in Python | Navigating the Frontiers of Deep Learning, Neural Networks & Machine Learning Algorithms with Statistics.
-•MERN Stack Web Developer 
-•PYTHON 
-•HTML 
-•CSS 
-•JavaScript 
+<p>Pre Final Year AI/ML Scholar | Proficient in Python and Java script | Navigating the Frontiers of Deep Learning, Neural Networks & Machine Learning Algorithms with Statistics.
+•Full Stack Web Developer with React native and Go
+•Deep NLP 
+•XG Boost
+•Tenserflow
+•Scikit learn
+•Keras
+•CNN, RNN, ANN
+•Reinforcement learning
+•Go
+•Django
+•Regression and Classification
+•MERN Stack
 •NodeJS 
 •Mongodb 
 •React.js 
@@ -25,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 •Shadcn 
 •Postman 
 •Tailwind CSS 
-•Git
+•React Native
 </p>
 
 
